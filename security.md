@@ -1,4 +1,4 @@
-# 🔸 Check SOL Private Key & Seed Phrase – Офлайн-проверка Solana ключей [Free] Май 2026
+# 🪙 Check SOL Private Key & Seed Phrase – Офлайн-проверка Solana ключей [Free] Май 2026
 
 <div align="center">
   <img src="https://img.shields.io/badge/Загрузки-47K+-00FF99?style=for-the-badge&logo=github" />
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Работает-Solana%20Private%20Keys-informational?style=for-the-badge&logo=solana" />
 </div>
 
-**🔸 Check SOL Private Key & Seed Phrase – Офлайн-проверка Solana ключей** позволяет быстро проверить корректность Solana приватных ключей и BIP39 сид-фраз. Всё работает локально — без интернета. Ваши ключи никуда не отправляются. Поддерживает Base58, байтовый массив (JSON формат) и мнемоники (12, 18, 24 слова). Идеально подходит для проверки резервных копий кошельков Phantom, Solflare или сортировки коллекции ключей. Бесплатно. Навсегда.
+**🪙 Check SOL Private Key & Seed Phrase – Офлайн-проверка Solana ключей** позволяет быстро проверить корректность Solana приватных ключей и BIP39 сид-фраз. Всё работает локально — без интернета. Ваши ключи никуда не отправляются. Поддерживает Base58, байтовый массив (JSON формат) и мнемоники (12, 18, 24 слова). Идеально подходит для проверки резервных копий кошельков Phantom, Solflare или сортировки коллекции ключей. Бесплатно. Навсегда.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=28&center=true&vCenter=true&width=900&lines=🔸+Check+SOL+Private+Key+%26+Seed+Phrase;🪙+Офлайн-проверка+Solana+ключей;⚡+Base58+%7C+Byte+array+%7C+BIP39;💯+Бесплатно.+Интернет+не+нужен.;🔒+100%+локально+%7C+Ваши+ключи+при+вас">
